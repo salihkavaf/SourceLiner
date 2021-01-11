@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SourceLiner": {
+      "commandName": "Project",
+      "commandLineArgs": "D:\\Source\\PHP\\Websites\\freecserp-2.0.0\\app"
+    }
+  }
+}
